@@ -42,5 +42,3 @@ git tag (to knows)
 git tag -a <tag name> -m "1st release"
 git push origin <tag name>
 
-
-git
