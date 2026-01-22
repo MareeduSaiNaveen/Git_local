@@ -25,7 +25,7 @@ git log --prettly=oneline
 #branch name can be main or master or it can be any
 
 git checkout -b <brach name> OR git switch -c <brach name>  
-git switch <branch name>
+git switch -c <branch name>
 git branch (* is current branch)
 git branch --all
 git branch -d <branch name>
